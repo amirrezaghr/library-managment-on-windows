@@ -1,0 +1,129 @@
+c:\users\developer\documents\visual studio 2010\Projects\Library\Library\obj\x86\Debug\Library.ListZirGrouh.resources
+c:\users\developer\documents\visual studio 2010\Projects\Library\Library\obj\x86\Debug\Library.Properties.Resources.resources
+c:\users\developer\documents\visual studio 2010\Projects\Library\Library\obj\x86\Debug\Library.SabtKetab.resources
+c:\users\developer\documents\visual studio 2010\Projects\Library\Library\obj\x86\Debug\Library.csproj.GenerateResource.Cache
+c:\users\developer\documents\visual studio 2010\Projects\Library\Library\bin\Debug\Library.exe
+c:\users\developer\documents\visual studio 2010\Projects\Library\Library\bin\Debug\Library.pdb
+c:\users\developer\documents\visual studio 2010\Projects\Library\Library\obj\x86\Debug\Library.exe
+c:\users\developer\documents\visual studio 2010\Projects\Library\Library\obj\x86\Debug\Library.pdb
+c:\users\developer\documents\visual studio 2010\Projects\Library\Library\obj\x86\Debug\Library.ListKetab.resources
+c:\users\developer\documents\visual studio 2010\Projects\Library\Library\obj\x86\Debug\Library.SabtOzv.resources
+c:\users\developer\documents\visual studio 2010\Projects\Library\Library\obj\x86\Debug\Library.AmanatKetab.resources
+c:\users\developer\documents\visual studio 2010\Projects\Library\Library\obj\x86\Debug\Library.ListOzv.resources
+c:\users\developer\documents\visual studio 2010\Projects\Library\Library\obj\x86\Debug\Library.MainForm.resources
+c:\users\developer\documents\visual studio 2010\Projects\Library\Library\obj\x86\Debug\Library.BargashtKetab.resources
+c:\users\developer\documents\visual studio 2010\Projects\Library\Library\obj\x86\Debug\Library.ListAmanat.resources
+c:\users\developer\documents\visual studio 2010\Projects\Library\Library\obj\x86\Debug\Library.ListBarghashtDadeNashode.resources
+c:\users\developer\documents\visual studio 2010\Projects\Library\Library\obj\x86\Debug\Library.About.resources
+c:\users\developer\documents\visual studio 2010\Projects\Library\Library\obj\x86\Debug\Library.Amniat.resources
+c:\users\developer\documents\visual studio 2010\Projects\Library\Library\obj\x86\Debug\Library.SabteZirGrouh.resources
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\Library\Library\obj\x86\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Kambiz\Desktop\Library\Library\Library\bin\Debug\Library.exe
+C:\Users\Kambiz\Desktop\Library\Library\Library\bin\Debug\Library.pdb
+C:\Users\Kambiz\Desktop\Library\Library\Library\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kambiz\Desktop\Library\Library\Library\obj\x86\Debug\Library.frmAbout.resources
+C:\Users\Kambiz\Desktop\Library\Library\Library\obj\x86\Debug\Library.AmanatKetab.resources
+C:\Users\Kambiz\Desktop\Library\Library\Library\obj\x86\Debug\Library.frmListAmanat.resources
+C:\Users\Kambiz\Desktop\Library\Library\Library\obj\x86\Debug\Library.ListOzv.resources
+C:\Users\Kambiz\Desktop\Library\Library\Library\obj\x86\Debug\Library.MainForm.resources
+C:\Users\Kambiz\Desktop\Library\Library\Library\obj\x86\Debug\Library.ListKetab.resources
+C:\Users\Kambiz\Desktop\Library\Library\Library\obj\x86\Debug\Library.ListZirGrouh.resources
+C:\Users\Kambiz\Desktop\Library\Library\Library\obj\x86\Debug\Library.Properties.Resources.resources
+C:\Users\Kambiz\Desktop\Library\Library\Library\obj\x86\Debug\Library.SabteZirGrouh.resources
+C:\Users\Kambiz\Desktop\Library\Library\Library\obj\x86\Debug\Library.SabtKetab.resources
+C:\Users\Kambiz\Desktop\Library\Library\Library\obj\x86\Debug\Library.SabtOzv.resources
+C:\Users\Kambiz\Desktop\Library\Library\Library\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Kambiz\Desktop\Library\Library\Library\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Kambiz\Desktop\Library\Library\Library\obj\x86\Debug\Library.exe
+C:\Users\Kambiz\Desktop\Library\Library\Library\obj\x86\Debug\Library.pdb
+C:\Users\Kambiz\Desktop\Library\Library\Library\obj\x86\Debug\Library.frmBargashtKetab.resources
+H:\ProjectC#\Library\Library\Library\obj\x86\Debug\Library.exe
+H:\ProjectC#\Library\Library\Library\obj\x86\Debug\Library.pdb
+H:\ProjectC#\Library\Library\Library\bin\Debug\Library.exe
+H:\ProjectC#\Library\Library\Library\bin\Debug\Library.pdb
+H:\ProjectC#\Library\Library\Library\obj\x86\Debug\Library.csprojResolveAssemblyReference.cache
+H:\ProjectC#\Library\Library\Library\obj\x86\Debug\Library.frmAbout.resources
+H:\ProjectC#\Library\Library\Library\obj\x86\Debug\Library.AmanatKetab.resources
+H:\ProjectC#\Library\Library\Library\obj\x86\Debug\Library.frmBargashtKetab.resources
+H:\ProjectC#\Library\Library\Library\obj\x86\Debug\Library.frmListAmanat.resources
+H:\ProjectC#\Library\Library\Library\obj\x86\Debug\Library.ListOzv.resources
+H:\ProjectC#\Library\Library\Library\obj\x86\Debug\Library.MainForm.resources
+H:\ProjectC#\Library\Library\Library\obj\x86\Debug\Library.ListKetab.resources
+H:\ProjectC#\Library\Library\Library\obj\x86\Debug\Library.ListZirGrouh.resources
+H:\ProjectC#\Library\Library\Library\obj\x86\Debug\Library.Properties.Resources.resources
+H:\ProjectC#\Library\Library\Library\obj\x86\Debug\Library.SabteZirGrouh.resources
+H:\ProjectC#\Library\Library\Library\obj\x86\Debug\Library.SabtKetab.resources
+H:\ProjectC#\Library\Library\Library\obj\x86\Debug\Library.SabtOzv.resources
+H:\ProjectC#\Library\Library\Library\obj\x86\Debug\Library.csproj.GenerateResource.Cache
+D:\IDM Downloads\SourceFile-ketabkhane-sourceiran.com\SourceFile-ketabkhane-sourceiran.com\Library\obj\x86\Debug\Library.exe
+D:\IDM Downloads\SourceFile-ketabkhane-sourceiran.com\SourceFile-ketabkhane-sourceiran.com\Library\obj\x86\Debug\Library.pdb
+D:\IDM Downloads\SourceFile-ketabkhane-sourceiran.com\SourceFile-ketabkhane-sourceiran.com\Library\bin\Debug\Library.exe
+D:\IDM Downloads\SourceFile-ketabkhane-sourceiran.com\SourceFile-ketabkhane-sourceiran.com\Library\bin\Debug\Library.pdb
+D:\IDM Downloads\SourceFile-ketabkhane-sourceiran.com\SourceFile-ketabkhane-sourceiran.com\Library\obj\x86\Debug\Library.csprojResolveAssemblyReference.cache
+D:\IDM Downloads\SourceFile-ketabkhane-sourceiran.com\SourceFile-ketabkhane-sourceiran.com\Library\obj\x86\Debug\Library.frmAbout.resources
+D:\IDM Downloads\SourceFile-ketabkhane-sourceiran.com\SourceFile-ketabkhane-sourceiran.com\Library\obj\x86\Debug\Library.AmanatKetab.resources
+D:\IDM Downloads\SourceFile-ketabkhane-sourceiran.com\SourceFile-ketabkhane-sourceiran.com\Library\obj\x86\Debug\Library.frmBargashtKetab.resources
+D:\IDM Downloads\SourceFile-ketabkhane-sourceiran.com\SourceFile-ketabkhane-sourceiran.com\Library\obj\x86\Debug\Library.frmListAmanat.resources
+D:\IDM Downloads\SourceFile-ketabkhane-sourceiran.com\SourceFile-ketabkhane-sourceiran.com\Library\obj\x86\Debug\Library.ListOzv.resources
+D:\IDM Downloads\SourceFile-ketabkhane-sourceiran.com\SourceFile-ketabkhane-sourceiran.com\Library\obj\x86\Debug\Library.MainForm.resources
+D:\IDM Downloads\SourceFile-ketabkhane-sourceiran.com\SourceFile-ketabkhane-sourceiran.com\Library\obj\x86\Debug\Library.ListKetab.resources
+D:\IDM Downloads\SourceFile-ketabkhane-sourceiran.com\SourceFile-ketabkhane-sourceiran.com\Library\obj\x86\Debug\Library.ListZirGrouh.resources
+D:\IDM Downloads\SourceFile-ketabkhane-sourceiran.com\SourceFile-ketabkhane-sourceiran.com\Library\obj\x86\Debug\Library.Properties.Resources.resources
+D:\IDM Downloads\SourceFile-ketabkhane-sourceiran.com\SourceFile-ketabkhane-sourceiran.com\Library\obj\x86\Debug\Library.SabteZirGrouh.resources
+D:\IDM Downloads\SourceFile-ketabkhane-sourceiran.com\SourceFile-ketabkhane-sourceiran.com\Library\obj\x86\Debug\Library.SabtKetab.resources
+D:\IDM Downloads\SourceFile-ketabkhane-sourceiran.com\SourceFile-ketabkhane-sourceiran.com\Library\obj\x86\Debug\Library.SabtOzv.resources
+D:\IDM Downloads\SourceFile-ketabkhane-sourceiran.com\SourceFile-ketabkhane-sourceiran.com\Library\obj\x86\Debug\Library.csproj.GenerateResource.Cache
+D:\IDM Downloads\SourceFile-ketabkhane-sourceiran.com\ketabkhane\Library\obj\x86\Debug\Library.exe
+D:\IDM Downloads\SourceFile-ketabkhane-sourceiran.com\ketabkhane\Library\obj\x86\Debug\Library.pdb
+D:\IDM Downloads\SourceFile-ketabkhane-sourceiran.com\ketabkhane\Library\bin\Debug\Library.exe
+D:\IDM Downloads\SourceFile-ketabkhane-sourceiran.com\ketabkhane\Library\bin\Debug\Library.pdb
+D:\IDM Downloads\SourceFile-ketabkhane-sourceiran.com\ketabkhane\Library\obj\x86\Debug\Library.csprojResolveAssemblyReference.cache
+D:\IDM Downloads\SourceFile-ketabkhane-sourceiran.com\ketabkhane\Library\obj\x86\Debug\Library.frmAbout.resources
+D:\IDM Downloads\SourceFile-ketabkhane-sourceiran.com\ketabkhane\Library\obj\x86\Debug\Library.AmanatKetab.resources
+D:\IDM Downloads\SourceFile-ketabkhane-sourceiran.com\ketabkhane\Library\obj\x86\Debug\Library.frmBargashtKetab.resources
+D:\IDM Downloads\SourceFile-ketabkhane-sourceiran.com\ketabkhane\Library\obj\x86\Debug\Library.frmListAmanat.resources
+D:\IDM Downloads\SourceFile-ketabkhane-sourceiran.com\ketabkhane\Library\obj\x86\Debug\Library.ListOzv.resources
+D:\IDM Downloads\SourceFile-ketabkhane-sourceiran.com\ketabkhane\Library\obj\x86\Debug\Library.MainForm.resources
+D:\IDM Downloads\SourceFile-ketabkhane-sourceiran.com\ketabkhane\Library\obj\x86\Debug\Library.ListKetab.resources
+D:\IDM Downloads\SourceFile-ketabkhane-sourceiran.com\ketabkhane\Library\obj\x86\Debug\Library.ListZirGrouh.resources
+D:\IDM Downloads\SourceFile-ketabkhane-sourceiran.com\ketabkhane\Library\obj\x86\Debug\Library.Properties.Resources.resources
+D:\IDM Downloads\SourceFile-ketabkhane-sourceiran.com\ketabkhane\Library\obj\x86\Debug\Library.SabteZirGrouh.resources
+D:\IDM Downloads\SourceFile-ketabkhane-sourceiran.com\ketabkhane\Library\obj\x86\Debug\Library.SabtKetab.resources
+D:\IDM Downloads\SourceFile-ketabkhane-sourceiran.com\ketabkhane\Library\obj\x86\Debug\Library.SabtOzv.resources
+D:\IDM Downloads\SourceFile-ketabkhane-sourceiran.com\ketabkhane\Library\obj\x86\Debug\Library.csproj.GenerateResource.Cache
+C:\Users\AmirReza-GHR-pc\Desktop\ketabkhane\Library\obj\x86\Debug\Library.exe
+C:\Users\AmirReza-GHR-pc\Desktop\ketabkhane\Library\obj\x86\Debug\Library.pdb
+C:\Users\AmirReza-GHR-pc\Desktop\ketabkhane\Library\bin\Debug\Library.exe
+C:\Users\AmirReza-GHR-pc\Desktop\ketabkhane\Library\bin\Debug\Library.pdb
+C:\Users\AmirReza-GHR-pc\Desktop\ketabkhane\Library\obj\x86\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\AmirReza-GHR-pc\Desktop\ketabkhane\Library\obj\x86\Debug\Library.frmAbout.resources
+C:\Users\AmirReza-GHR-pc\Desktop\ketabkhane\Library\obj\x86\Debug\Library.AmanatKetab.resources
+C:\Users\AmirReza-GHR-pc\Desktop\ketabkhane\Library\obj\x86\Debug\Library.frmBargashtKetab.resources
+C:\Users\AmirReza-GHR-pc\Desktop\ketabkhane\Library\obj\x86\Debug\Library.frmListAmanat.resources
+C:\Users\AmirReza-GHR-pc\Desktop\ketabkhane\Library\obj\x86\Debug\Library.ListOzv.resources
+C:\Users\AmirReza-GHR-pc\Desktop\ketabkhane\Library\obj\x86\Debug\Library.MainForm.resources
+C:\Users\AmirReza-GHR-pc\Desktop\ketabkhane\Library\obj\x86\Debug\Library.ListKetab.resources
+C:\Users\AmirReza-GHR-pc\Desktop\ketabkhane\Library\obj\x86\Debug\Library.ListZirGrouh.resources
+C:\Users\AmirReza-GHR-pc\Desktop\ketabkhane\Library\obj\x86\Debug\Library.Properties.Resources.resources
+C:\Users\AmirReza-GHR-pc\Desktop\ketabkhane\Library\obj\x86\Debug\Library.SabteZirGrouh.resources
+C:\Users\AmirReza-GHR-pc\Desktop\ketabkhane\Library\obj\x86\Debug\Library.SabtKetab.resources
+C:\Users\AmirReza-GHR-pc\Desktop\ketabkhane\Library\obj\x86\Debug\Library.SabtOzv.resources
+C:\Users\AmirReza-GHR-pc\Desktop\ketabkhane\Library\obj\x86\Debug\Library.csproj.GenerateResource.Cache
+D:\old desktop\6\ketabkhane\Library\obj\x86\Debug\Library.exe
+D:\old desktop\6\ketabkhane\Library\obj\x86\Debug\Library.pdb
+D:\old desktop\6\ketabkhane\Library\bin\Debug\Library.exe
+D:\old desktop\6\ketabkhane\Library\bin\Debug\Library.pdb
+D:\old desktop\6\ketabkhane\Library\obj\x86\Debug\Library.frmAbout.resources
+D:\old desktop\6\ketabkhane\Library\obj\x86\Debug\Library.AmanatKetab.resources
+D:\old desktop\6\ketabkhane\Library\obj\x86\Debug\Library.frmBargashtKetab.resources
+D:\old desktop\6\ketabkhane\Library\obj\x86\Debug\Library.frmListAmanat.resources
+D:\old desktop\6\ketabkhane\Library\obj\x86\Debug\Library.ListOzv.resources
+D:\old desktop\6\ketabkhane\Library\obj\x86\Debug\Library.MainForm.resources
+D:\old desktop\6\ketabkhane\Library\obj\x86\Debug\Library.ListKetab.resources
+D:\old desktop\6\ketabkhane\Library\obj\x86\Debug\Library.ListZirGrouh.resources
+D:\old desktop\6\ketabkhane\Library\obj\x86\Debug\Library.Properties.Resources.resources
+D:\old desktop\6\ketabkhane\Library\obj\x86\Debug\Library.SabteZirGrouh.resources
+D:\old desktop\6\ketabkhane\Library\obj\x86\Debug\Library.SabtKetab.resources
+D:\old desktop\6\ketabkhane\Library\obj\x86\Debug\Library.SabtOzv.resources
+D:\old desktop\6\ketabkhane\Library\obj\x86\Debug\Library.csproj.GenerateResource.Cache
+D:\old desktop\6\ketabkhane\Library\obj\x86\Debug\Library.csprojResolveAssemblyReference.cache

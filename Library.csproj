@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D99D9697-BA6B-4107-837C-81573BDCD0E8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Library</RootNamespace>
+    <AssemblyName>Library</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAbout.Designer.cs">
+      <DependentUpon>frmAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AmanatKetab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AmanatKetab.Designer.cs">
+      <DependentUpon>AmanatKetab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBargashtKetab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBargashtKetab.Designer.cs">
+      <DependentUpon>frmBargashtKetab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmListAmanat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmListAmanat.Designer.cs">
+      <DependentUpon>frmListAmanat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListOzv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListOzv.Designer.cs">
+      <DependentUpon>ListOzv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListKetab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListKetab.Designer.cs">
+      <DependentUpon>ListKetab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListZirGrouh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListZirGrouh.Designer.cs">
+      <DependentUpon>ListZirGrouh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SabteZirGrouh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SabteZirGrouh.Designer.cs">
+      <DependentUpon>SabteZirGrouh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SabtKetab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SabtKetab.Designer.cs">
+      <DependentUpon>SabtKetab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SabtOzv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SabtOzv.Designer.cs">
+      <DependentUpon>SabtOzv.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmAbout.resx">
+      <DependentUpon>frmAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AmanatKetab.resx">
+      <DependentUpon>AmanatKetab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBargashtKetab.resx">
+      <DependentUpon>frmBargashtKetab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmListAmanat.resx">
+      <DependentUpon>frmListAmanat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListOzv.resx">
+      <DependentUpon>ListOzv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListKetab.resx">
+      <DependentUpon>ListKetab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListZirGrouh.resx">
+      <DependentUpon>ListZirGrouh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SabteZirGrouh.resx">
+      <DependentUpon>SabteZirGrouh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SabtKetab.resx">
+      <DependentUpon>SabtKetab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SabtOzv.resx">
+      <DependentUpon>SabtOzv.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\Books.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\users.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\appointment-new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\preferences-contact-list.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\Exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\customers.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\Power.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\About.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\naft.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\naft 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lib.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DocX.dll" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
