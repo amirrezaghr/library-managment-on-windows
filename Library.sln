@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library", "Library\Library.csproj", "{D99D9697-BA6B-4107-837C-81573BDCD0E8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "library 4", "C:\Users\AmirReza-GHR-pc\Desktop\library\library database\library 4.vdproj", "{2993CDE5-06EF-4A9A-AEF8-AB5D0089A4B2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "library database", "C:\Users\AmirReza-GHR-pc\Desktop\library\library database\library database.vdproj", "{511934C9-CA62-4D2D-B81F-6DCACF6C88E7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "..\..\..\library managment\Setup1\Setup1.vdproj", "{106CE1E1-0B71-4161-BBE5-F0792BC7A2DF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Library Managment Setup", "..\..\..\Library Managment 2\Library Managment Setup\Library Managment Setup.vdproj", "{732D3C26-0081-46EF-935C-6E49E74D7E23}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "..\..\..\Library Managment 3\Setup\Setup.vdproj", "{6E28FB8B-C8F5-40F6-A908-61A4C203F53E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup2", "C:\Users\AmirReza-GHR-pc\Desktop\nahaii\Setup2\Setup2.vdproj", "{55A29220-6C56-4713-B2E1-7B3A51B1EBA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D99D9697-BA6B-4107-837C-81573BDCD0E8}.Debug|x86.ActiveCfg = Debug|x86
+		{D99D9697-BA6B-4107-837C-81573BDCD0E8}.Debug|x86.Build.0 = Debug|x86
+		{D99D9697-BA6B-4107-837C-81573BDCD0E8}.Release|x86.ActiveCfg = Release|x86
+		{D99D9697-BA6B-4107-837C-81573BDCD0E8}.Release|x86.Build.0 = Release|x86
+		{2993CDE5-06EF-4A9A-AEF8-AB5D0089A4B2}.Debug|x86.ActiveCfg = Debug
+		{2993CDE5-06EF-4A9A-AEF8-AB5D0089A4B2}.Release|x86.ActiveCfg = Release
+		{511934C9-CA62-4D2D-B81F-6DCACF6C88E7}.Debug|x86.ActiveCfg = Debug
+		{511934C9-CA62-4D2D-B81F-6DCACF6C88E7}.Release|x86.ActiveCfg = Release
+		{106CE1E1-0B71-4161-BBE5-F0792BC7A2DF}.Debug|x86.ActiveCfg = Debug
+		{106CE1E1-0B71-4161-BBE5-F0792BC7A2DF}.Release|x86.ActiveCfg = Release
+		{732D3C26-0081-46EF-935C-6E49E74D7E23}.Debug|x86.ActiveCfg = Debug
+		{732D3C26-0081-46EF-935C-6E49E74D7E23}.Release|x86.ActiveCfg = Release
+		{6E28FB8B-C8F5-40F6-A908-61A4C203F53E}.Debug|x86.ActiveCfg = Debug
+		{6E28FB8B-C8F5-40F6-A908-61A4C203F53E}.Release|x86.ActiveCfg = Release
+		{55A29220-6C56-4713-B2E1-7B3A51B1EBA1}.Debug|x86.ActiveCfg = Debug
+		{55A29220-6C56-4713-B2E1-7B3A51B1EBA1}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
